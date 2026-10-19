@@ -1,6 +1,6 @@
 # AlkaEco Philippines — static website
 
-Complete export of the latest 11-page design, including the leaf hero, white navigation and updated cards.
+Complete export of the latest 12-page design, including the leaf hero, white navigation and updated cards.
 
 ## Deploy to Netlify
 
@@ -37,6 +37,7 @@ Then open http://localhost:3000. Opening index.html directly with `file://` is n
 ## Edit the site
 
 - `site/index.html`: home page
+- `site/team/index.html`: team page; update member names and roles here and replace the placeholder image sources with individual portraits when available
 - `site/style.css`: all styling, responsive rules and recent design overrides
 - `site/js/main.js`: mobile navigation and email enquiry preparation
 - `site/js/gallery.js`: enlarged product gallery
